@@ -4,7 +4,7 @@
 <h2 align="center">A Software developer from Istanbul / Turkey</h2>
 
 
-### I learnig   </br>
+### I am learnig   </br>
 ![REACT](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react) 
 ![NODE](https://img.shields.io/badge/-Node%20JS-000000?style=for-the-badge&logo)
 
