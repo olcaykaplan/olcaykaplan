@@ -5,7 +5,7 @@
 ---
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+[![Olcay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olcaykaplan&show_icons=true)](https://github.com/olcaykaplan)
 
 <br/>
 
@@ -28,7 +28,4 @@
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Olcay Kaplan's Stack Overflow Profile" height="30" width="30">
   </a>
   
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
 </p>
