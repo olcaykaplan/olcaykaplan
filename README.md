@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-[![Olcay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olcaykaplan&show_icons=true)](https://github.com/olcaykaplan)
+ <!--  [![Olcay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olcaykaplan&show_icons=true)](https://github.com/olcaykaplan) -->
 
 
 <br><br>
